@@ -1,0 +1,44 @@
+---
+title: "DSCI-412: Predictive Modeling"
+author: "Daina Tang"
+date: "2024-12-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Things learned in this course
+## Week 1
+- Variance vs Bias tradeoff
+- Using RMarkdown Notebook
+
+## Week 2
+- Data visualization
+- Explanatory vs exploratory analysis
+
+## Week 3
+- Linear regression applications
+- Linear regression assumptions
+
+## Week 4
+- Logistic regression
+- Precision vs recall on model performance
+
+## Week 5
+- Generalized linear models (GLM)
+- Advantages vs disafvantage of GLM
+
+## Week 6
+- Decision tree appplications
+- Random forest applications
+
+## Week 7
+- Unsupervised learning
+- K-Means clustering
+
+## Week 8
+- Documentation and presentations
+- GitHub and git commands
+
